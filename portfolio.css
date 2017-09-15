@@ -1,0 +1,80 @@
+body {
+	background: #de6161;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #2657eb, #de6161);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #2657eb, #de6161);
+	color: white;
+	margin: auto;
+  	padding-bottom: 3rem;
+  	font-family: 'Fira Sans', sans-serif;
+
+}
+
+.nav-link {
+	color: white;
+}
+
+.navbar-brand {
+	color: white;
+	font-family: 'Fira Sans', sans-serif;
+}
+
+
+.jumbotron {
+	text-align: center;
+	background: #de6161;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #2657eb, #de6161);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #2657eb, #de6161);
+}
+
+.lead {
+	font-style: italic;
+}
+
+
+.container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+}
+
+.about {
+	text-align: justify;
+	padding: 70px 70px 70px 70px;
+}
+
+
+.projects {
+    padding: 70px 70px 70px 70px;
+}
+
+form {
+	text-align: center;
+}
+
+.form-group{
+	width: 400px;
+	margin: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.featurette-divider {
+	width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
